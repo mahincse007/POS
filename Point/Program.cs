@@ -6,13 +6,10 @@ namespace Point
     {
         static void Main(string[] args)
         {
-
             Pos obj = new Pos();
-
             obj.Start();
 
             Console.ReadKey();
-
         }
     }
 }
