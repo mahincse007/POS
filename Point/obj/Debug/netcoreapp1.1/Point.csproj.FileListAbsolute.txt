@@ -1,0 +1,9 @@
+c:\users\mahin\documents\visual studio 2017\Projects\Point\Point\bin\Debug\netcoreapp1.1\Point.deps.json
+c:\users\mahin\documents\visual studio 2017\Projects\Point\Point\bin\Debug\netcoreapp1.1\Point.runtimeconfig.json
+c:\users\mahin\documents\visual studio 2017\Projects\Point\Point\bin\Debug\netcoreapp1.1\Point.runtimeconfig.dev.json
+c:\users\mahin\documents\visual studio 2017\Projects\Point\Point\bin\Debug\netcoreapp1.1\Point.dll
+c:\users\mahin\documents\visual studio 2017\Projects\Point\Point\bin\Debug\netcoreapp1.1\Point.pdb
+c:\users\mahin\documents\visual studio 2017\Projects\Point\Point\obj\Debug\netcoreapp1.1\Point.csprojResolveAssemblyReference.cache
+c:\users\mahin\documents\visual studio 2017\Projects\Point\Point\obj\Debug\netcoreapp1.1\Point.AssemblyInfo.cs
+c:\users\mahin\documents\visual studio 2017\Projects\Point\Point\obj\Debug\netcoreapp1.1\Point.dll
+c:\users\mahin\documents\visual studio 2017\Projects\Point\Point\obj\Debug\netcoreapp1.1\Point.pdb
